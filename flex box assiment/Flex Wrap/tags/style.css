@@ -1,0 +1,12 @@
+div{ 
+    border: 2px solid blueviolet;
+    height: 200px;
+background-color: red;
+
+} 
+span{ 
+    border: 2px solid gold;
+    height: 200px;
+    background-color: darkblue;
+
+}

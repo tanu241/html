@@ -1,0 +1,10 @@
+.parent{
+    display: flex; 
+    
+    background-color: lightgreen;
+} 
+.parent>div{
+background-color: grey;
+margin: 10px;
+padding: 20px;
+}

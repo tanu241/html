@@ -1,0 +1,20 @@
+#parent{
+  
+   width: 500px;
+   height: 500px;
+   background-color: chartreuse;
+
+} 
+.child{ 
+    width: 40%;
+    height: 40%;
+    background-color: blue;
+    
+} 
+#parent:hover{
+    background-color: black;
+} 
+
+ul{
+    font-size: 2em;
+}

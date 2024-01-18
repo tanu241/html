@@ -1,0 +1,31 @@
+div{
+   
+    height: 100px;
+    width: 100px; 
+    display: inline-block; 
+}  
+section{
+   width: 80vw;
+   height: 300px;
+   border: 2px solid gray;
+   margin: 10px auto;
+   display: flex;
+   
+   justify-content: space-around;
+ 
+
+
+
+}
+#one{
+   background-color: blue;
+}
+#two{
+    background-color: brown;
+    
+    position: absolute;
+    top: 200px;
+}
+#three{
+    background-color: purple;
+}
